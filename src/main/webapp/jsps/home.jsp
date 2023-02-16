@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions -  PollSCM Demo </h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program demo on Feb  11th  at 7.30 PM IST for new batch. , This is a weekdays batch - 7.30  AM to 9.10  AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
-	<h1 align="center">  We have Python Demo on Feb 23rd at 7.30 AM IST </h1>
+<h1 align="center">Welcome to Mithun Software Solutions -  poll SCM demo </h1>
+<h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program demo on march 11th  at 8.30 PM IST for new batch. , This is a weekdays batch - 8.10 AM to 9.45 AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+	<h1 align="center">  We have Python Demo on april 23rd at 7.30 AM IST </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
